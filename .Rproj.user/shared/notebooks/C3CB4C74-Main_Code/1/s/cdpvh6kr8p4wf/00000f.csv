@@ -1,0 +1,4 @@
+"0","# Install the 'readxl' package"
+"0","#install.packages(""readxl"")"
+"0","#install.packages(""sjPlot"")"
+"0","library(readxl) "

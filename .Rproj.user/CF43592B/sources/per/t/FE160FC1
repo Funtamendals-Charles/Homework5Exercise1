@@ -1,0 +1,28 @@
+{
+    "id": "FE160FC1",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1769062178953.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "9addc6aeb099432690617e2510c3cf80",
+        "name": "data_URL_list",
+        "title": "data_URL_list",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 28429470871257198,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1769062178953,
+    "read_only": false,
+    "read_only_alternatives": []
+}

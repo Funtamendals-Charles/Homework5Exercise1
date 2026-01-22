@@ -1,0 +1,28 @@
+{
+    "id": "A1369128",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1769061932439.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "id": "cd23e7176e44442f95702192baf0cba8",
+        "name": "data_years",
+        "title": "data_years",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 30118299256684642,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1769061932439,
+    "read_only": false,
+    "read_only_alternatives": []
+}
