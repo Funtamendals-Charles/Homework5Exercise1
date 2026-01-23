@@ -1,0 +1,28 @@
+{
+    "id": "9DAEA9FC",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1769154457435.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "dd3af43cb3ff4153ad059836e335d888",
+        "name": "data_frame_list",
+        "title": "data_frame_list",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2482455837108629103,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1769154457435,
+    "read_only": false,
+    "read_only_alternatives": []
+}

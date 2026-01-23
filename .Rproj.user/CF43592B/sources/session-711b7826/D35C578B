@@ -1,0 +1,28 @@
+{
+    "id": "D35C578B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1769156272743.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "id": "3be13785ba4240cdb68eec7500916308",
+        "name": "data_frame_list_int_years",
+        "title": "data_frame_list_int_years",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314850208474988545,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1769156272743,
+    "read_only": false,
+    "read_only_alternatives": []
+}

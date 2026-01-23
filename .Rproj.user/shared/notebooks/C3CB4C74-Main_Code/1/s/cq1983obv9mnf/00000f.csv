@@ -1,4 +1,0 @@
-"0","as.integer(format(all_data$Year, ""%Y""))"
-"2","Error in prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  : 
-  invalid 'trim' argument
-"

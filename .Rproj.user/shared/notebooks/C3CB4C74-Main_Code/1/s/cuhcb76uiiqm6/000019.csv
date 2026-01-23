@@ -1,0 +1,8 @@
+"0","#Step 3: Clean the data"
+"0","#Create a copy of the stacked data called all_data_clean"
+"0","all_data_clean = all_data"
+"0","#Convert the Rank column to integer. We use the sub function which using a regular expression, converts the suffix portion of each rank value into the empty string. This leaves just the numeric portion. From there we convert the numeric string into a proper integer. "
+"0","all_data_clean$Rank = as.integer(sub(""(st|nd|rd|th)$"", """", all_data$Rank))"
+"0","#We get a warning about a NA value appearing in our Rank column. "
+"0","#Checking our pre-cleaned data, we see that Sudan in 2012 got a rank of ""n/r"" which becomes NA in our cleaned data set. "
+"0","all_data[is.na(all_data_clean$Rank),]"
